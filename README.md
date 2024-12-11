@@ -67,4 +67,3 @@ Key visualizations include:
 ## Tools Used
 - **Power BI:** For data cleaning, transformation, modeling, and visualization.
 
-## Repository Structure
