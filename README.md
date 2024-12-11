@@ -28,7 +28,7 @@ The entire ETL process was carried out in **Power BI**, which included:
 ## Dashboard
 An interactive dashboard was created to visualize the data and uncover insights. Below is a snapshot of the dashboard:
 
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Screenshot 2024-12-11 141218](https://github.com/user-attachments/assets/7f451380-e503-429c-8659-93b104f6ff17)
 
 The dashboard allows filtering by:
 - City
